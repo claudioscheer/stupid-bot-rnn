@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-from torch.utils.data.dataset import Dataset
 from torch.utils.data.sampler import SubsetRandomSampler
 import numpy as np
 from rnn import RNNModel
